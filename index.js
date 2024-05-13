@@ -1,1 +1,1 @@
-// Buena Suerte!!
+// Buena suerte!
