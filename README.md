@@ -17,3 +17,9 @@ Os adjunto la demo para que veaís fácilmente como funciona la app. No inspecci
 6. Bonus! Puedes hacer que al seleccionar un valor, se quede marcado en naranja.
 
 ## Pregunta 1: Describe con lenguaje natural que tiene que hacer la app.
+- Al rellenar todos los campos y quitarles el foco, los cambios quedan reflejados en el lado izquierdo de la app;
+- Al hacer click al boton Confirm - poner display:none al formulario, - poner display:block al Thank you div, 
+- Añadir atributo required en los campos del formulario
+- Añadir mensajes de error si se hace click al botón Confirm, pero los campos no están rellenados
+- Dar el formato correcto y limitar el número de los dígitos de la tarjeta (max 16)
+- Limitar el CVC a tres dígitos 
